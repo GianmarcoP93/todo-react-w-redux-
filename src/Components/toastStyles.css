@@ -1,0 +1,13 @@
+.custom-toast {
+  background-color: rgb(51, 65, 85) !important;
+  color: rgb(239, 229, 228) !important;
+  border: 1px solid;
+  border-color: #07bc0c;
+}
+
+.custom-toast-deleted {
+  background-color: rgb(51, 65, 85) !important;
+  color: rgb(239, 229, 228) !important;
+  border: 1px solid;
+  border-color: red;
+}
